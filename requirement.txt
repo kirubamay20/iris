@@ -1,0 +1,8 @@
+pandas
+numpy
+pickle
+sklearn
+flask
+streamlit
+flasgger
+swagger
